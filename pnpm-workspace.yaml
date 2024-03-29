@@ -1,0 +1,11 @@
+packages:
+  - next-app
+  - react-js-app-basic
+  - react-js-app-cra
+  - react-ts-app-cra
+  - react-umijs-app-antd
+  - react-umijs-app-simple
+  - react-vite-app
+  - react-vite-swc-app
+  - umijs-plugin
+  - umijs-vue-app

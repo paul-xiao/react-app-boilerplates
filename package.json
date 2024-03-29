@@ -1,0 +1,29 @@
+{
+  "name": "learn-react-2024",
+  "version": "1.0.0",
+  "main": "index.js",
+  "workspaces": [
+    "next-app",
+    "react-js-app-basic",
+    "react-js-app-cra",
+    "react-ts-app-cra",
+    "react-umijs-app-antd",
+    "react-umijs-app-simple",
+    "react-vite-app",
+    "react-vite-swc-app",
+    "umijs-plugin",
+    "umijs-vue-app"
+  ],
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-scripts": "^5.0.1"
+  }
+}
